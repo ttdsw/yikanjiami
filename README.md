@@ -1,5 +1,5 @@
 {
-	"targetVersion":5,
+	"targetVersion":4,
 	"version4Link":"",
 	"name":"天幽绝清君诺",
 	"author":"天幽绝清君诺",
