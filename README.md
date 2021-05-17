@@ -1,10 +1,10 @@
 {
-	"targetVersion":4,
+	"targetVersion":5,
 	"version4Link":"",
 	"name":"天幽绝清君诺",
 	"author":"天幽绝清君诺",
-	"contact":"自用",
-	"message":"勿传播，不更新",
+	"contact":"失效叫我删除或更改，搜不到的自己找可以看的网站联系我添加，联系不上就算了",
+	"message":"低调自用勿传播",
 	"searchConfig":[
 		{
 			"configName":"九四四",
@@ -18,6 +18,20 @@
 			"searchTypeRegex":"BFaFBzCMFFT0veHU2ahPvYpPLZG5vbkRyWApy8SX29NHi3kR1atVMWS51uJYvZRQ29dX1ZAG29dX1YdZ1ahU2UVYmaKAme7Omxqtzei+BzTRByTCFFT0veHU2ahPvp==",
 			"searchUrl":"0bqV2f4QM9m9mTABkfqVmYBZ18VQ28KX2uk4M3d42fHUzWhTy8X919jsvxOIzWhTy8Xx19jsorzX1xc=",
 			"searchUrlRegex":"1ahCnWSQyWwYiaXTzWyHiYpPLZG5iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYA6iZApvc==",
+			"usable":true
+		},
+		{
+			"configName":"只能看美剧，别的很差",
+			"configType":"WebPage",
+			"extensions":"unknown",
+			"itemNameRegex":"vaS5vZSXiaXTzWyHiYH818qR1ahBMTA6iZA4MY45veHXvZRQ1as+",
+			"itemUrlRegex":"vaS5vZSXiaXTzWyHiYpQmuHs2aSXnrGPLYsYvYA6veHXvZRQ1as+",
+			"searchNameRegex":"vapViakEyxkUvrj818qE0xkVx9q5maStiZAGyrd42uKuvriPLYipmatV1aJHiYpPLZG5ip==",
+			"searchPictureRegex":"matV1aJHiYA6iYdsyxqXMWHT0Wm51uhEvri4MY45iZApvbkRyWApy8SX29NHiYA6iZAGM9kRyWA+",
+			"searchStateRegex":"vbkRyWApy8SX29NHiYA6iZA4MY45veHU2ahPvYcGM8g+ic==",
+			"searchTypeRegex":"vbkRyWApy8SX29NHiYA6iZA4MY45veHU2ahPvYA6veHXvZRQ0fw+ic==",
+			"searchUrl":"0bqV2bNCMTH9m92P1WK503K4yWGPy8HOM9zQzbktyxjZ0eB4ma7Ev9msvxOIzWhTy8Xx19jsow==",
+			"searchUrlRegex":"vapViakEyxkUvrj818qE0xkVx9q5maStiZAGyrd42uKuvri4MY45iYdV0xqEzIVYMY4Y",
 			"usable":true
 		},
 		{
@@ -62,22 +76,6 @@
 			"searchStateRegex":"vaq5mYdZ1ahU2UVYmtHP19qtiZALiecpiec4MY4/Lw4piecpveHs0xy+",
 			"searchUrl":"0bqV2f4QM9kX18X719q8MukQ1rHUzWhTy8pP2aXRv9ktyxjZ0bmQ2uwHn7ktyxjZ0hmQ2uqHjsXtyWqt2Z7FitKUzxiOwWmt13wYlYjk19551aSXMUJPNec4IatPmxpFighPzbjQ0WwpNIcFigVTNfc9rZg9wTdemWtEzeHqr7gSMZiRNfyTleARNfiFibm8LrjH",
 			"searchUrlRegex":"vagp0bjtzZVYLeA6vTsYibq5maStvriPLYi+vatOzTdZ1ahU2UVY1ahCnWSQyWwYiaqXmagO19j5z8tPyWRHiYA6iZAGM8g+",
-			"usable":true
-		},
-		{
-			"configName":"夜夜迷",
-			"configType":"WebPage",
-			"encrypted":true,
-			"itemNameRegex":"vaS5vZSXiaXTzWyHiYA6M9zQzeHR1ahBM8tsMY4YvYpPLZG5veHXvZRQ1as+",
-			"itemUrlRegex":"vaS5vZSXiaXTzWyHiYpPLYH818wQ2aSXnrH5zeA6Lri+MY4GM8g+veHE0IA=",
-			"searchNameRegex":"1ahCnWSQyWwYiaXTzWyHiYA6iYdV0xqEzIVYLeA6vTsYiaqXmagO19j5z8tPyWRHiYA6iZA=",
-			"searchPictureRegex":"1ahCnWSQyWwYiaXTzWyHiYA6iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYpPLZG5iZA=",
-			"searchStateRegex":"vbkRyWApy8SX29NHi3d5yT7VzxXVibqtnbwO2ut30bwYvYpPLZG5veHU2ahPvp==",
-			"searchTypeRegex":"BFaFBzCMFFT0veHU2ahPvYpPLZG5vbkRyWApy8SX29NHi3kR1atVMWS51uJYvZRQ29dX1ZAG29dX1YdZ1ahU2UVYmaKAme7Omxqtzei+BzTRByTC",
-			"searchUrl":"0bqV2f4QM9ttnWKO0rBZ18VQ0WBszxpP2aXRM9zQzeHUzWhTy8pP0bqO1fH9zf7FJ8KX2uk4K8HTzbVu29KY1WtVvw==",
-			"searchUrlRegex":"1ahCnWSQyWwYiaXTzWyHiYpPLZG5iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYA6iZA=",
-			"searchYearRegex":"B1uVBMPHFFT0veHU2ahPvYpPLZG5veHU2ahPvZRQ2fA=",
-			"sniffExcludeRegex":"MY5EyrGPLp==",
 			"usable":true
 		},
 		{
@@ -194,20 +192,6 @@
 			"searchUrl":"0bqV2bNCMTH9m92PyuqsnxkuMukQ1rH818qUzWhTy8pP0bqO1fH9zf7FJ8KX2uk4K8HTzbVu29KY1WtVvw==",
 			"searchUrlRegex":"vapViakEyxkUvrjV0xqEzri+vagpy8SX29NHi3ktyxjZ0aOtnrip0bjtzZVYLeA6Lri+MY4GM8g+veH4kfA=",
 			"sniffExcludeRegex":"0bqV2bNCMTH5yrA7NrBEyrA6",
-			"usable":true
-		},
-		{
-			"configName":"麻花",
-			"configType":"WebPage",
-			"encrypted":true,
-			"itemNameRegex":"vaS5iakEyxkUvriPLYi+vagpy8SX29NHiYA6iYd42uKuvriPL3dEyxsQMY4YvYpPLZG5veHXvZRQ1as+",
-			"itemUrlRegex":"vaS5iakEyxkUvriPLYi+vagpy8SX29NHiYA6iYd42uKuvri4MY5R1ahBMTA6Lri+MY4GM8g+veHE0IA=",
-			"searchNameRegex":"1ahCnWSQyWwYiaXTzWyHiYA6iYdV0xqEzIVYLeA6vTsYiaqXmagO19j5z8tPyWRHiYA6iZA=",
-			"searchPictureRegex":"1ahCnWSQyWwYiaXTzWyHiYA6iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYpPLZG5iZA=",
-			"searchStateRegex":"vbkRyWApy8SX29NHi3d5yT7VzxXVibqtnbwO2ut30bwYvYpPLZG5veHU2ahPvp==",
-			"searchUrl":"0bqV2bNCMTH9m92P1Wh4mWgSNIcPy8HOM9ktyxjZ0eGOMrVOMrVOMrVOMrVOMuXV1WR/m8wHn7ktyxjZ0hmQ2uqHj3k7yu75mfV=",
-			"searchUrlRegex":"1ahCnWSQyWwYiaXTzWyHiYpPLZG5iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYA6iZA=",
-			"sniffExcludeRegex":"MY5UmahV0WNQ2aSXnWKTMTA6",
 			"usable":true
 		},
 		{
@@ -694,19 +678,6 @@
 			"usable":true
 		},
 		{
-			"configName":"神鸡",
-			"configType":"WebPage",
-			"encrypted":true,
-			"itemNameRegex":"vaS5vYcGyrdV0xqEzIVYLeA6Lrip0bjtzZVYMY4YibqX2umtmfVYx9kt1ayYvp==",
-			"itemUrlRegex":"vaS5vYcGyrdV0xqEzIVYMY4YiaXTzWyHiYpPLYsYibqX2umtmfVYx9kt1ayYvYA6veHXvYcGM8S5vp==",
-			"searchNameRegex":"vagpy8SX29NHi3yOmaX71Wip29q70r7818qE0xkVx7HV0bKOyYdEyx5B1aHXzeip0bjtzZVYMY4Yibq5maStvri4MY45iYdsyxqXMWHT0Wm51uhEvw==",
-			"searchPictureRegex":"zahVyr7Q2ut30WBX1fVYLeA6Lri+ifSU2ahPiakEyxkUvrjR1ahBiaX5zaqt1Y7A2Ti+",
-			"searchStateRegex":"vbkRyWApy8SX29NHi3d5yT7VzxXVibqtnbwO2ut30bwYvYpPLYsGM9kRyWA+veHXvp==",
-			"searchUrl":"0bqV2f4QM9m9mTBU0u4TkUsPy8HOM9ktyxjZ0fHUzWhTy8X919jsvxOIzWhTy8Xx19jsow==",
-			"searchUrlRegex":"vagpy8SX29NHi3yOmaX71Wip29q70r7818qE0xkVx7HV0bKOyYdEyx5B1aHXzeip0bjtzZVYLeA6LripmatV1aJHiYA6iYdsyxqXMWHT0Wm51uhEvw==",
-			"usable":true
-		},
-		{
 			"configName":"七零",
 			"configType":"WebPage",
 			"encrypted":true,
@@ -718,13 +689,6 @@
 			"searchUrl":"0bqV2bNCMTH9m92PkUdB2TBZyTH818qUzWhTy8pQMrVOMrVOMrB4ma7Ev9msvxOIzWhTy8Xx19jsorzUmWjO0xwH",
 			"searchUrlRegex":"vapViakEyxkUvrjV0xqEzri+vagpy8SX29NHi3ktyxjZ0aOtnrip0bjtzZVYLeA6Lri+MY4GM8g+veH4kfA=",
 			"sniffExcludeRegex":"0bqV2bNCMTH5yKRPkIh2MuSXMY4=",
-			"usable":true
-		},
-		{
-			"configName":"高清B",
-			"configType":"Kuyun77",
-			"encrypted":true,
-			"searchUrl":"yJXrNakg19zNNsz9yKN72uqxkIKsKaNUIa7lmujqvIV=",
 			"usable":true
 		},
 		{
@@ -848,33 +812,19 @@
 			"usable":true
 		},
 		{
-			"configName":"美美",
-			"configType":"MeiMei",
-			"encrypted":true,
-			"searchUrl":"0bqV2bNCMTH9m92PkIX90TBZ18V=",
-			"usable":true
-		},
-		{
-			"configName":"鲱鱼",
-			"configType":"FeiYu",
-			"encrypted":true,
-			"searchUrl":"yJXrNakg19zNN8wUzbs71K5y1fhN1t5RyVgHvw==",
-			"usable":true
-		},
-		{
 			"configName":"夜迷",
 			"configType":"WebPage",
 			"encrypted":true,
-			"itemNameRegex":"vaS5vZSXiaXTzWyHiYA6M9zQzeHR1ahBM8tsMY4YvYpPLZG5veHXvZRQ1as+",
-			"itemUrlRegex":"vaS5vZSXiaXTzWyHiYpPLYH818wQ2aSXnrH5zeA6Lri+MY4GM8g+veHE0IA=",
-			"searchNameRegex":"1ahCnWSQyWwYiaXTzWyHiYA6iYdV0xqEzIVYLeA6vTsYiaqXmagO19j5z8tPyWRHiYA6iZA=",
+			"extensions":"unknown",
+			"itemNameRegex":"vaS5vZSXiaXTzWyHiYH818qR1ahBMTA6iZA4MY45veHXvZRQ1as+",
+			"itemUrlRegex":"vaS5vZSXiaXTzWyHiYpQmuHs2aSXnrGPLYsYvYA6veHXvZRQ1as+",
+			"searchNameRegex":"vapUiakEyxkUvrjV0xqEzri+vagp0bjtzZVYMY4YvYpPLYsGM8g+veH4NUA=",
 			"searchPictureRegex":"1ahCnWSQyWwYiaXTzWyHiYA6iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYpPLZG5iZA=",
 			"searchStateRegex":"vbkRyWApy8SX29NHi3d5yT7VzxXVibqtnbwO2ut30bwYvYpPLZG5veHU2ahPvp==",
-			"searchTypeRegex":"BFaFBzCMFFT0veHU2ahPvYpPLZG5vbkRyWApy8SX29NHi3kR1atVMWS51uJYvZRQ29dX1ZAG29dX1YdZ1ahU2UVYmaKAme7Omxqtzei+BzTRByTC",
-			"searchUrl":"0bqV2f4QM9ttnWKO0rBZ18VQ0WBszxpP2aXRM9zQzeHUzWhTy8pP0bqO1fH9zf7FJ8KX2uk4K8HTzbVu29KY1WtVvw==",
-			"searchUrlRegex":"1ahCnWSQyWwYiaXTzWyHiYpPLZG5iYdV0xqEzIVYMY4YiaqXmagO19j5z8tPyWRHiYA6iZA=",
+			"searchTypeRegex":"BFaFBzCMFFT0veHU2ahPvYpPLZG5vbkRyWApy8SX29NHi3kR1atVMWS51uJYvZRQ29dX1ZA=",
+			"searchUrl":"0bqV2f4QM9ttnWKO0rBZ18VQmuHs28KX2uk4MTVOMrVOMrVOMrVOMrVQv9msvxOIzWhTy8Xx19jsorzUmWjO0xwH",
+			"searchUrlRegex":"vapUiakEyxkUvrjV0xqEzri+vagp0bjtzZVYLeA6Lri+MY4GM8g+veH4NUA=",
 			"searchYearRegex":"B1uVBMPHFFT0veHU2ahPvYpPLZG5veHU2ahPvZRQ2fA=",
-			"sniffExcludeRegex":"MY5EyrGPLp==",
 			"usable":true
 		},
 		{
@@ -1015,6 +965,23 @@
 	],
 	"searchManager":{},
 	"analysisApi":{
+		"147":{
+			"api":"0bqV2bNCMTHOyWAP1aKsyuHDzrBZ18VQNIw9MUH72uRH",
+			"encrypted":true,
+			"support":[
+				"iqiyi",
+				"qq",
+				"youku",
+				"mgtv",
+				"sohu",
+				"bilibili",
+				"pptv",
+				"1905",
+				"miguvideo",
+				"ixigua"
+			],
+			"usable":true
+		},
 		"1717":{
 			"api":"0bqV2bNCMTH9m92PNI2Sk9t71YBZ18VQ03pQmbsP2aXRv9KT1fV=",
 			"encrypted":true,
